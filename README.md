@@ -1,5 +1,7 @@
 # Build a modern computer system
-This repo contains code developments of [FromNandToTetris1](https://www.nand2tetris.org/) course assignments.
+This repo contains code developments of [FromNandToTetris1](https://www.nand2tetris.org/) course assignments. The objective is to build a Von Neumann architecture computer system. Computer is built from scratch (logic gates) component by component. 
+
+![](/img/vonNeumannArchitecture.png)
 
 ## 01_logicGates
 Contains simple logic gates development such as And, Not, Or, Or8way, Xor, Mux, DMux.
